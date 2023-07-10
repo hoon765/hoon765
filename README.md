@@ -1,6 +1,6 @@
 ### 7월 2주차
 
-- [ ] 어텐션 매커니즘 이해 [1](https://glee1228.tistory.com/3){:target="_blank"} [2](https://wikidocs.net/22893) [3](https://heekangpark.github.io/nlp/attention)
+- [ ] 어텐션 매커니즘 이해 [1](https://glee1228.tistory.com/3) {:target="_blank"} [2](https://wikidocs.net/22893) [3](https://heekangpark.github.io/nlp/attention)
 - [ ] hyper parameter 수정 & 성능 향상
 - [ ] [혼자 공부하는 머신러닝+딥러닝 책&영상 공부](https://github.com/hoon765/hg-mldl) / [영상](https://www.youtube.com/playlist?list=PLJN246lAkhQjoU0C4v8FgtbjOIXxSs_4Q)
 
