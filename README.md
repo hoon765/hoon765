@@ -6,6 +6,9 @@
 
 ### 7월 4주 ~
 - [ ] [케라스 창시자에게 배우는 딥러닝 2판](https://github.com/hoon765/keras_dp)
+
+https://github.com/hoon765/gong_dae
+
 <!--
 **hoon765/hoon765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
