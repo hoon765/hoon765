@@ -1,4 +1,4 @@
-# [⚡](https://github.com/hoon765/gong_dae)
+# [⚡](https://github.com/hoon765/gong_dae) [🧶](https://www.duolingo.com/learn)
 
 ### 7월 2주차
 - [ ] [인공신경망 RNN](https://edpuzzle.com/classes/640447277a41f443012cd58a)
