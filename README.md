@@ -2,6 +2,7 @@
 
 ### 7월 2주차
 - [ ] [인공신경망 RNN](https://edpuzzle.com/classes/640447277a41f443012cd58a)
+- [ ] [face_recognition_CNN](https://www.kaggle.com/code/sdfwe5/face-recognition-cnn/notebook?scriptVersionId=135779800)
 - [ ] 어텐션 매커니즘 이해 [1](https://glee1228.tistory.com/3) [2](https://wikidocs.net/22893) [3](https://heekangpark.github.io/nlp/attention)
 - [ ] [Long Short-Term Memory (LSTM) 이해하기](https://dgkim5360.tistory.com/entry/understanding-long-short-term-memory-lstm-kr)
 - [ ] hyper parameter 수정 & 성능 향상
