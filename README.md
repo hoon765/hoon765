@@ -10,7 +10,7 @@
 - [ ] [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 - [x] [Long Short-Term Memory (LSTM) 이해하기](https://dgkim5360.tistory.com/entry/understanding-long-short-term-memory-lstm-kr)
 - [ ] [face_recognition_CNN](https://www.kaggle.com/code/sdfwe5/face-recognition-cnn/notebook?scriptVersionId=135779800)
-- [ ] hyper parameter 수정 & 성능 향상
+-  hyper parameter 수정 & 성능 향상
 - [ ] [혼자 공부하는 머신러닝+딥러닝 책&영상 공부](https://github.com/hoon765/hg-mldl) / [영상](https://www.youtube.com/playlist?list=PLJN246lAkhQjoU0C4v8FgtbjOIXxSs_4Q)
 
 ### 7월 4주 ~
