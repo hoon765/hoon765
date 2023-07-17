@@ -1,5 +1,8 @@
 # [⚡](https://github.com/hoon765/gong_dae)[🧶](https://www.duolingo.com/learn)
 
+## AI STUDY
+## [2023 여름 세미나 일정](https://docs.google.com/spreadsheets/d/1LaGPNZzyd678Omwsc-NTnL1aJKIQf6A7zZXibh9byg8/edit#gid=0)
+
 ### 7월 2주차
 - [ ] [인공신경망 RNN](https://edpuzzle.com/classes/640447277a41f443012cd58a)
 - [ ] [face_recognition_CNN](https://www.kaggle.com/code/sdfwe5/face-recognition-cnn/notebook?scriptVersionId=135779800)
